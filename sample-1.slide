@@ -39,6 +39,7 @@ _Why_use_scoped__ptr_? Use plain ***ptr* instead.
 * 代码示例
 
 .code test.go
+.play test.go
 
 * 代码示例（部分代码）
 
