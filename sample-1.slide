@@ -42,7 +42,6 @@ _Why_use_scoped__ptr_? Use plain ***ptr* instead.
 
 * 代码示例（部分代码）
 
-.code test.go /main func/,/ end main/
 .code test.go /^func main/,/}/ HL12
 
 * 图片
